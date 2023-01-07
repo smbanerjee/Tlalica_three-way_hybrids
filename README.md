@@ -27,6 +27,10 @@ Scripts used for analyses in Banerjee &amp; Powell et al 2023
 
   * *Description: Scripts used to plot water quality and chemistry metrics* 
 
+* **input_files** 
+
+  * *Description: files refered to by R scripts throughout this repository* 
+  
 ## Contact
 
 Please reach out to the repository owner at smbanerj at ucdavis dot edu with questions or suggestions.
