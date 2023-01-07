@@ -1,0 +1,1 @@
+This is the script used to plot water quality and chemistry metrics. This analysis is presented in Banerjee & Powell et al. *in press*, to compare water quality and chemistry at sites where we found three-way hybrids and a site upstream wihtout three0way hybrids.
