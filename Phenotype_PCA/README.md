@@ -1,0 +1,1 @@
+This is the script used to conduct principal component analysis. This analysis is presented in Banerjee & Powell et al. *in press*, to compare male phenotypes of *Xiphophorus variatus*, *X. malinche*, *X. birchmanni*, *X. birchmanni* x *X. malinche* hybrids, and three-way hybrids.
