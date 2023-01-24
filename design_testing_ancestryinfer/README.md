@@ -9,3 +9,15 @@ The updated version of *ancestryinfer* which includes a three reference genome m
 
 * **FigS3.R**
 	* *Description: Script to plot results of applying ancestryinfer in the three source population mode to X. birchmanni x X. malinche hybrid populations that are not sympatric with X. variatus.*
+
+* **FigS4.R**
+	* *Description: Script to plot the proportion of the genome inferred to be derived from X. variatus in individuals phenotypically determined to be X. variatus at the Tlalica site upon collection.*
+
+* **FigS7.R**
+	* *Description: Script to plot the error rates for local ancestry inference in simulations of early generation three way hybrids and of X.mal x X. bir hybrids.*
+
+* **FigS8.R**
+	* *Description: Script to plot the error rates for local ancestry inference from simulations using incorect priors for time of initial admixture and incorrect intial admixture proportions.*
+
+* **FigS9.R**
+	* *Description: Script to plot the error rates for local ancestry inference from simulations where initial admixture was 25 and 50 generations between the present.*
