@@ -1,6 +1,6 @@
 # Pipeline for locacl ancestry calling with *ancestryinfer*
 
-This is a cleaned pipeline for running local ancestry calling using [ancestryinfer](https://github.com/Schumerlab/ancestryinfer). This analysis is presented in Banerjee & Powell et al. *in press*, where we call local ancestry and report global ancestry proportions of *Xiphophorou* individials along the Rio Calnali.
+This is a cleaned pipeline for running local ancestry calling using [ancestryinfer](https://github.com/Schumerlab/ancestryinfer). This analysis is presented in Banerjee & Powell et al. *in press*, where we call local ancestry and report global ancestry proportions of *Xiphophorou* individials along the Rio Calnali. Reference genomes, ancestry informative markers, and parental counts used for these *ancestryinfer* runs can be found in [this Dryad repository](https://doi.org/10.5061/dryad.9kd51c5nd).
 
 ## Contents
 
