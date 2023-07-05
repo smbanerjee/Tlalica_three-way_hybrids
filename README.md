@@ -1,5 +1,5 @@
 # Tlalica_three-way_hybrids
-Scripts used for analyses in Banerjee &amp; Powell et al in press
+Scripts used for analyses in [Banerjee &amp; Powell et al. 2023](https://doi.org/10.1093/evolut/qpad019)
 
 ## Contents
 
